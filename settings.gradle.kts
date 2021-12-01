@@ -7,5 +7,5 @@
  * in the user manual at https://docs.gradle.org/7.0/userguide/multi_project_builds.html
  */
 
-rootProject.name = "adv_code_2020"
+rootProject.name = "adv_code_2021"
 include("src")
